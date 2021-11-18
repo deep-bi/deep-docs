@@ -8,8 +8,6 @@ nav_order: 1
 {: .no_toc }
 
 
-{: .fs-6 .fw-300 }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
