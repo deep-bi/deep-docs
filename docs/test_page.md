@@ -3,6 +3,7 @@ layout: default
 title: Test_page
 nav_order: 1
 has_children: true
+logo: "/assets/images/deepbi_logo.png"
 ---
 
 # Test
@@ -17,9 +18,7 @@ has_children: true
 
 ---
 
-
-
-## Site logo
+## Deep logo
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
