@@ -3,7 +3,6 @@ layout: default
 title: Test_page
 nav_order: 1
 has_children: true
-logo: "/assets/images/deepbi_logo.png"
 ---
 
 # Test
