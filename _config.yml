@@ -13,7 +13,6 @@ lang:               en
 domain: deep-bi.github.io # the subpath of your site, e.g. /blog
 url: https://deep-bi.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /deep-docs/
-logo: "/assets/images/deepbi_logo.png"
 
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
@@ -22,6 +21,7 @@ permalink:          /:title/
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo:               
+#logo: "/assets/images/deepbi_logo.png"
 
 navbar:
     sticky:         true
